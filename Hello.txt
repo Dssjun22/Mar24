@@ -4,4 +4,5 @@ syso("Hello world");
 int a=10;
 int b=20;
 syso(a+b);
+syso(a*b);
 }
