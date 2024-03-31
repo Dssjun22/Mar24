@@ -6,5 +6,8 @@ syso(a*b);
 syso(a/b);
 syso(a%b);
 
+
 syso("End");
+
+syso("finish)
 }
