@@ -2,4 +2,7 @@ class {
 syso(a+b);
 syso(a-b);
 syso(a*b);
+
+syso(a/b);
+syso(a%b);
 }
